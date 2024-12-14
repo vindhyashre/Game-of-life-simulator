@@ -15,19 +15,18 @@ Reactjs, Bootstrap
 
 ## Screenshots:
 
-![gameoflife1](https://github.com/user-attachments/assets/5947dcce-1d47-48c5-af68-a374287a5852) 
+![gameoflife1](https://github.com/user-attachments/assets/3b769f27-a4fe-4054-8241-f4fb3bacf888)
+![gameoflife2](https://github.com/user-attachments/assets/845e3034-6ebd-4915-8938-04509c2fc171)
+![gameoflife3](https://github.com/user-attachments/assets/9cdb65ff-1282-423f-8215-06efbce05e93)
+![gameoflife4](https://github.com/user-attachments/assets/da301d8c-5ae4-45a2-a742-82fbccb95043)
 
-![gameoflife2](https://github.com/user-attachments/assets/d80f9910-0ab8-4d45-9e9b-97b83c0bbd35) 
 
-![gameoflife3](https://github.com/user-attachments/assets/408f0d9f-6baa-4cfa-940f-027823c66b8f) 
-
-![gameoflife4](https://github.com/user-attachments/assets/b68c8b29-0628-4f97-9504-58103d20e0f3)
 
 
 ## Video Demonstration: 
 
 
-https://github.com/user-attachments/assets/9e0ed762-4172-4c27-a0e7-819957338ebb
+https://github.com/user-attachments/assets/55709fe9-5770-46b7-807c-2a2d12506c51
 
 
 
